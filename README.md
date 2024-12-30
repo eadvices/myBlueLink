@@ -1,5 +1,7 @@
 # myBlueLink: Open Source BLE, Zigbee, Matter DEV Board
 
+## STM32WB55RG
+
 ![myBlueLink Board](myBLE-schematics.png)
 
 Welcome to myBlueLink, the open-source development board for BLE, Zigbee, Matter, and more! Whether you're a hobbyist, engineer, or student, myBlueLink provides a versatile platform for prototyping, experimentation, and innovation in wireless communication,based on STM32WB55RG.
